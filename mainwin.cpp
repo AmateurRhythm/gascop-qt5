@@ -25,7 +25,7 @@
 #include <QApplication>
 #include <QDebug>
 #include <QTcpSocket>
-
+#include <QMessageBox>
 #include "mainwin.h"
 
 #define MainWin_DEBUG
